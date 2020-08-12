@@ -115,6 +115,3 @@ plt.legend()
 
 # Display plot
 plt.show()
-
-
-
