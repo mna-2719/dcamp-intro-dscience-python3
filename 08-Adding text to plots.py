@@ -39,7 +39,3 @@ plt.text(2.5, 80, "Missing June data")
 
 # Display graph
 plt.show()
-
-
-
-
