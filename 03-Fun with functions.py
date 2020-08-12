@@ -27,7 +27,3 @@ lookup_plate(plate)
 
 # Call lookup_plate() with the keyword argument for color
 lookup_plate(plate, color='Green')
-
-
-
-
