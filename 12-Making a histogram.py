@@ -73,6 +73,3 @@ plt.title('Sample from Shoeprint')
 
 # Display histogram
 plt.show()
-
-
-
