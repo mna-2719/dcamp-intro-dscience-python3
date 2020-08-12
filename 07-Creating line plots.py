@@ -19,7 +19,3 @@ plt.plot(mengfei.day_of_week, mengfei.hours_worked)
 
 # Display all three line plots
 plt.show()
-
-
-
-
