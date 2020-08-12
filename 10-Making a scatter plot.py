@@ -49,7 +49,3 @@ plt.xlabel('Longitude')
 
 # Display the plot
 plt.show()
-
-
-
-
