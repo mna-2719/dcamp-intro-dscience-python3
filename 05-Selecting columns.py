@@ -42,7 +42,3 @@ is_missing = mpr['Missing?']
 # Display the columns
 print(name)
 print(is_missing)
-
-
-
-
